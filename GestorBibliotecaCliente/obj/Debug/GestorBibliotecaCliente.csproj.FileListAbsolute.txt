@@ -1,0 +1,10 @@
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\bin\Debug\GestorBibliotecaCliente.exe.config
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\bin\Debug\GestorBibliotecaCliente.exe
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\bin\Debug\GestorBibliotecaCliente.pdb
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\bin\Debug\GestorBibliotecaComun.dll
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\bin\Debug\GestorBibliotecaComun.pdb
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\obj\Debug\GestorBibliotecaCliente.csprojAssemblyReference.cache
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\obj\Debug\GestorBibliotecaCliente.csproj.CoreCompileInputs.cache
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\obj\Debug\GestorBibliotecaCliente.csproj.CopyComplete
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\obj\Debug\GestorBibliotecaCliente.exe
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaCliente\obj\Debug\GestorBibliotecaCliente.pdb

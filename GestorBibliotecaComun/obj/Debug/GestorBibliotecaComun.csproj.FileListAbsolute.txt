@@ -1,0 +1,12 @@
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBibliotecaComun\GestorBibliotecaComun\bin\Debug\GestorBibliotecaComun.dll
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBibliotecaComun\GestorBibliotecaComun\bin\Debug\GestorBibliotecaComun.pdb
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBibliotecaComun\GestorBibliotecaComun\obj\Debug\GestorBibliotecaComun.csprojAssemblyReference.cache
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBibliotecaComun\GestorBibliotecaComun\obj\Debug\GestorBibliotecaComun.csproj.CoreCompileInputs.cache
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBibliotecaComun\GestorBibliotecaComun\obj\Debug\GestorBibliotecaComun.dll
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBibliotecaComun\GestorBibliotecaComun\obj\Debug\GestorBibliotecaComun.pdb
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaComun\bin\Debug\GestorBibliotecaComun.dll
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaComun\bin\Debug\GestorBibliotecaComun.pdb
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaComun\obj\Debug\GestorBibliotecaComun.csprojAssemblyReference.cache
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaComun\obj\Debug\GestorBibliotecaComun.csproj.CoreCompileInputs.cache
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaComun\obj\Debug\GestorBibliotecaComun.dll
+C:\Users\alepd\OneDrive\Escritorio\Apuntes uni\SD\P3\GestorBiblioteca\GestorBibliotecaComun\obj\Debug\GestorBibliotecaComun.pdb
