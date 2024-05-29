@@ -17,6 +17,7 @@ namespace GestorBibliotecaComun
             ChannelServices.RegisterChannel(new TcpChannel(), false);
             llamadaServidor = (GestorBibliotecaComun)Activator.GetObject(typeof(GestorBibliotecaComun), "tcp://localhost:12345/GestorBibliotecaComun");
             Console.WriteLine("Conectado al servidor");
+            Console.ReadLine();
         }
     }
 }
