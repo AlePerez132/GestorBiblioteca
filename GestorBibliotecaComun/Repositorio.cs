@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GestorBibliotecaComun
 {
+    [Serializable]
     class Repositorio
     {
         private List<TLibro> libros;

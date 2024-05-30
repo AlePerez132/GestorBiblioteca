@@ -58,6 +58,7 @@ namespace GestorBibliotecaComun
 
         public int AbrirRepositorio(int pIda, string pNomFichero)
         {
+            
             if (pIda != idAdmin)
             {
                 return -1;
@@ -80,7 +81,6 @@ namespace GestorBibliotecaComun
                                 return -2;
                             }
                         }
-
                         List<TLibro> libros = new List<TLibro>();
                         for (int i = 0; i < numLibros; i++)
                         {
@@ -248,7 +248,28 @@ namespace GestorBibliotecaComun
 
         public int Devolver(int pPos)
         {
-            throw new NotImplementedException();
+            if (pPos < 1 || pPos > Libros.Count)
+            {
+                return -1;
+            }
+            else if (Libros[pPos - 1].NoListaEspera > 0)
+            {
+                // si hay libros en la lista de espera
+                Libros[pPos - 1].NoListaEspera -= 1;
+                Ordenar(idAdmin, campoOrdenacion);
+                return 0;
+            }
+            else if (Libros[pPos - 1].NoPrestados > 0)
+            {
+                Libros[pPos - 1].NoLibros += 1;
+                Libros[pPos - 1].NoPrestados -= 1;
+                Ordenar(idAdmin, campoOrdenacion);
+                return 1;
+            }
+            else
+            {
+                return 2;
+            }
         }
 
         public int GuardarRepositorio(int pIda, int pRepo)

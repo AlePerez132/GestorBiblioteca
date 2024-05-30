@@ -1,5 +1,8 @@
-﻿namespace GestorBibliotecaComun
+﻿using System;
+
+namespace GestorBibliotecaComun
 {
+    [Serializable]
     public class TLibro
     {
         public string Isbn { get; set; }
